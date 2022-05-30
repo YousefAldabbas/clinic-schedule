@@ -1,0 +1,17 @@
+/* *{
+    outline: 1px solid #ccc;
+}
+ */
+
+
+
+
+/* change default scroller collor */
+::-webkit-scrollbar {
+    width: 5px;
+    background-color: #354259;
+    color: #354259;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #C2DED1;
+}
